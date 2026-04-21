@@ -6,7 +6,7 @@ import numpy as np
 
 st.title("AI PDF Assistant")
 
-# Load model
+# Load modell
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
 # Memory
